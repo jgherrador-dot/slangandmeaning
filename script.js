@@ -140,7 +140,10 @@ function lookup(){
     "SFW": {def: "safe for work", examples:["This content is SFW."]},
     "SFWAF": {def: "safe for work and family", examples:["This content is SFWAF."]},
     "Stinks": {def: "something that smells bad", examples:["That trash can stinks."]},
-    "Stink": {def: "something that smells bad", examples:["That trash can stinks."]}
+    "Stink": {def: "something that smells bad", examples:["That trash can stinks."]},
+    "aced": {def: "get a perfect score", examples:["I aced a test."]},
+    "ace": {def: "get a perfect score", examples:["I ace a test."]},
+    "asap": {def: "as fast as possible", examples:["Please respond asap."]}
   };
 
   const item = mock[q.toLowerCase()];
