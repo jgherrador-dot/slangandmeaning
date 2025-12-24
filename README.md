@@ -5,3 +5,5 @@ hello this shouldn't be public so idk why i'm writing this
 
 it's public NOW!!
 muahahaha
+
+YOU. ARE. NOT. GETTING. THE. OWNERSHIP
