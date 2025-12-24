@@ -143,7 +143,9 @@ function lookup(){
     "Stink": {def: "something that smells bad", examples:["That trash can stinks."]},
     "aced": {def: "get a perfect score", examples:["I aced a test."]},
     "ace": {def: "get a perfect score", examples:["I ace a test."]},
-    "asap": {def: "as fast as possible", examples:["Please respond asap."]}
+    "asap": {def: "as fast as possible", examples:["Please respond asap."]},
+    "ass": {def: "rude way to say butt", examples:["The ass is a part of the body."]},
+    "lol": {def: "laugh out loud", examples:["That was so funny, lol."]}
   };
 
   const item = mock[q.toLowerCase()];
