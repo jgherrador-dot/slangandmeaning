@@ -28,6 +28,7 @@ body{font-family:Inter,system-ui,Segoe UI,Roboto,Arial;line-height:1.5;margin:0;
 input#termInput{flex:1;padding:10px 12px;border:1px solid #dbe4ff;border-radius:8px}
 
 button#lookupBtn{background:var(--accent);color:#fff;border:none;padding:10px 16px;border-radius:8px;cursor:pointer}
+button#lookupBtn:hover{background:#1a5edb}
 
 .results{list-style:none;padding:0;margin:12px 0;display:grid;gap:10px}
 
